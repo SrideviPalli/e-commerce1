@@ -12,6 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class SareetaApplicationTests {
 
 	@Test
+	//jenkin
 	//test is a method contained in a class which is only used for testing
 	//The Test annotation tells JUnit that the public void method to which it is attached can be run as a test case
 	public void contextLoads() {
